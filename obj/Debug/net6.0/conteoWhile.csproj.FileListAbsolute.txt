@@ -1,0 +1,15 @@
+C:\Users\TAGOKG\Desktop\conteoWhile\bin\Debug\net6.0\conteoWhile.exe
+C:\Users\TAGOKG\Desktop\conteoWhile\bin\Debug\net6.0\conteoWhile.deps.json
+C:\Users\TAGOKG\Desktop\conteoWhile\bin\Debug\net6.0\conteoWhile.runtimeconfig.json
+C:\Users\TAGOKG\Desktop\conteoWhile\bin\Debug\net6.0\conteoWhile.dll
+C:\Users\TAGOKG\Desktop\conteoWhile\bin\Debug\net6.0\conteoWhile.pdb
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.csproj.AssemblyReference.cache
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.AssemblyInfoInputs.cache
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.AssemblyInfo.cs
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.csproj.CoreCompileInputs.cache
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.dll
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\refint\conteoWhile.dll
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.pdb
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\conteoWhile.genruntimeconfig.cache
+C:\Users\TAGOKG\Desktop\conteoWhile\obj\Debug\net6.0\ref\conteoWhile.dll
