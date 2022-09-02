@@ -10,7 +10,7 @@ internal class Program
         {
             int i;
 			i = 100;
-			while (i>=0) {
+			while (i>=1) {
 				Console.WriteLine(i);
 				i = i-1;
 			}
